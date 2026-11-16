@@ -6,7 +6,7 @@ I'm a senior COO, transformation leader and advisor with 30+ years' experience a
 
 My career has spanned capital markets, asset management, private credit, insurance and business transformation — from building and running businesses to leading complex technology and operating-model change.
 
-More recently, I've been designing, building and testing AI-enabled applications and decision-support systems.
+More recently, I've been designing, building and testing AI-enabled applications, decision-support systems and automated workflows — combining hands-on software development with commercial experimentation and practical business implementation.
 
 I work across the boundary between **business problems, technology and practical implementation**.
 
@@ -38,9 +38,25 @@ Exploring how AI can help people interpret complex information, identify relevan
 
 *Early-stage private project.*
 
-### 🛠️ Application Development
+### 🛠️ virgles — AI-Powered Application Development
 
-Building and experimenting with practical software applications, combining product design, data management, APIs, AI-assisted development and user experience.
+Designing and building a practical AI-enabled application that helps people solve everyday problems through conversational assistance, images and step-by-step guidance.
+
+The work spans product design, full-stack application development, authentication, databases, API integration, AI-assisted development, deployment and user experience.
+
+Exploring multimodal interaction, voice-led assistance and personalised guidance based on users' skills, tools and experience.
+
+*Active development project — [virgles.com](https://virgles.com).*
+
+### 🚀 AI-Enabled Growth & Commercial Experimentation
+
+Exploring how AI agents, automation and data-driven workflows can support the commercial lifecycle — from market research and opportunity identification through content creation, distribution, performance measurement and optimisation.
+
+Current experiments include AI-assisted product research, short-form video production, affiliate marketing and low-cost digital distribution.
+
+The focus is on developing repeatable, measurable processes that reduce manual effort and connect technical capability with commercial outcomes.
+
+*Early-stage experimentation and workflow development.*
 
 ## Technologies & Methods
 
